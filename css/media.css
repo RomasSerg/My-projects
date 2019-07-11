@@ -538,6 +538,9 @@
        display: block;
        margin: 0 auto;
    }
+   .main-baner__header li .first__img {
+    margin-bottom: 25px;
+   }
    .main-baner__header .box2 {
 
        display: none;
