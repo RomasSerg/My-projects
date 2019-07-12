@@ -328,7 +328,7 @@
         display: none;
     }
     .navimein {
-        display: block;
+        display: flex;
     }
     .mobile__none{
         display: none;
